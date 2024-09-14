@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CodeC#\bin\Debug\net8.0\CodeC#.exe
+C:\Users\PC\Desktop\CodeC#\bin\Debug\net8.0\CodeC#.deps.json
+C:\Users\PC\Desktop\CodeC#\bin\Debug\net8.0\CodeC#.runtimeconfig.json
+C:\Users\PC\Desktop\CodeC#\bin\Debug\net8.0\CodeC#.dll
+C:\Users\PC\Desktop\CodeC#\bin\Debug\net8.0\CodeC#.pdb
+C:\Users\PC\Desktop\CodeC#\obj\Debug\net8.0\CodeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CodeC#\obj\Debug\net8.0\CodeC#.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CodeC#\obj\Debug\net8.0\CodeC#.AssemblyInfo.cs
+C:\Users\PC\Desktop\CodeC#\obj\Debug\net8.0\CodeC#.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CodeC#\obj\Debug\net8.0\CodeC#.dll
+C:\Users\PC\Desktop\CodeC#\obj\Debug\net8.0\refint\CodeC#.dll
+C:\Users\PC\Desktop\CodeC#\obj\Debug\net8.0\CodeC#.pdb
+C:\Users\PC\Desktop\CodeC#\obj\Debug\net8.0\CodeC#.genruntimeconfig.cache
+C:\Users\PC\Desktop\CodeC#\obj\Debug\net8.0\ref\CodeC#.dll
